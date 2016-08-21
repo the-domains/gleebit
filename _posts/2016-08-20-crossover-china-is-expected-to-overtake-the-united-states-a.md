@@ -7,16 +7,16 @@ keywords: []
 description: >-
   Crossover: China is expected to overtake the United States as the largest
   market for motion pictures.
-datePublished: '2016-08-20T22:08:45.043Z'
-dateModified: '2016-08-20T22:07:56.258Z'
-authors: []
-publisher: {}
+datePublished: '2016-08-20T22:18:03.445Z'
+dateModified: '2016-08-20T22:15:58.421Z'
 title: ''
 author: []
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-20-crossover-china-is-expected-to-overtake-the-united-states-a.md
+authors: []
+publisher: {}
+starred: true
 url: crossover-china-is-expected-to-overtake-the-united-states-a/index.html
 _type: Article
 
